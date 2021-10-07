@@ -1,7 +1,8 @@
 ### Hi there 👋
-- 🔭 I'm currently working on a mobile architecture and design pattern series
-- 📙 I'm learning all about SwiftUI
-- 🏴‍☠️ In my spare time I;m building a pirate game in Unity 
+- 💻 I've been a mobile developer for 8 years, using mostly Swift & Kotlin.
+- 🔭 I'm currently working on a mobile architecture and design pattern series.
+- 📙 I'm learning all about SwiftUI.
+- 🏴‍☠️ In my spare time I'm building a pirate game in Unity.
 
 
 <!--
