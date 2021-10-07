@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I'm currently working on a mobile architecture and design pattern series
-- 📙 I've just started learning about SwiftUI
+- 📙 I'm learning all about SwiftUI
 - 🏴‍☠️ In my spare time I;m building a pirate game in Unity 
 
 
