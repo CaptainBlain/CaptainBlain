@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 - 💻 I've been a mobile developer for 8 years, using mostly Swift & Kotlin.
 - 🔭 I'm currently working on a mobile architecture and design pattern series.
 - 📙 I'm learning all about SwiftUI.
